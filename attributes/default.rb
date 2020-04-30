@@ -4,7 +4,7 @@ default["freeipa"]["domain"] = "example.local"
 default["freeipa"]["dir_manager_password"] = "dirmanpw8"
 default["freeipa"]["realm_name"] = "EXAMPLE.LOCAL"
 default["freeipa"]["retries"] = "3"
-default["freeipa"]["ipadress"] = "172.18.40.7"
+default["freeipa"]["ipadress"] = "Localhost"
 default["freeipa"]["retry_delay"] = "15"
 default["freeipa"]["action"] = "append"
 
